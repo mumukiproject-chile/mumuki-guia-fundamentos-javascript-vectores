@@ -1,6 +1,6 @@
 Así como existe una función para averiguar en qué posición está un elemento, también puede ocurrir que queramos saber lo contrario: qué elemento está en una cierta posición. :open_mouth:
 
-Para averiguarlo podemos usar el **operador de indexación**, escribiendo después de la colección y entre corchetes `[]` la posición que queremos para averiguar:
+Para averiguarlo, podemos usar el **operador de indexación**, escribiendo después de la colección y entre corchetes `[]` la posición que queremos para averiguar:
 
 ```javascript
 ム mesesDelAnio[0]
@@ -9,6 +9,6 @@ Para averiguarlo podemos usar el **operador de indexación**, escribiendo despu�
 "perro"
 ```
 
-¡Ojo! El número que le pases, formalmente llamado **índice**, debe ser menor a la longitud de la lista, o cosas malas pueden suceder. :astonished:
+¡Ojo! El número que ingreses, formalmente llamado **índice**, debe ser menor a la longitud de la lista, o puede pasar algo malo. :astonished:
 
-> Probalo vos mismo en la consola: ¿qué sucede si le pedís el elemento 0 a una lista vacía? ¿O si le pedís el elemento 48 a una lista de 2 elementos?
+> Pruébalo tú mismo en la consola: ¿qué pasa si le pides el elemento 0 a una lista vacía? ¿O si le pides el elemento 48 a una lista de 2 elementos?

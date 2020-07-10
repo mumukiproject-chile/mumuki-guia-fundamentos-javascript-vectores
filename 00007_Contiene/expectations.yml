@@ -1,11 +1,11 @@
 ---
 expectations:
-- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  binding: contiene
-  inspection: Uses:posicion
-- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  binding: "*"
-  inspection: Declares:contiene
-- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  binding: "*"
-  inspection: DeclaresComputationWithArity2:contiene
+  - !ruby 
+    binding: contiene
+    inspection: Uses:posicion
+  - !ruby 
+    binding: "*"
+    inspection: Declares:contiene
+  - !ruby 
+    binding: "*"
+    inspection: DeclaresComputationWithArity2:contiene

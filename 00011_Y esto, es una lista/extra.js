@@ -1,1 +1,4 @@
-var personas = ["mara", "julian"];
+var personas = [
+    'mara',
+    'julian'
+];

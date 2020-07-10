@@ -1,5 +1,4 @@
 function saludar(personas) {
-  for(let persona of personas) {
-    
-  }
+    for (let persona of personas) {
+    }
 }

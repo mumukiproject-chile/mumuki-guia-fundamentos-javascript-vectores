@@ -1,1 +1,5 @@
-var pertenencias = ["espada", "escudo", "antorcha"];
+var pertenencias = [
+    'espada',
+    'escudo',
+    'antorcha'
+];

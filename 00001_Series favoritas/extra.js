@@ -1,2 +1,9 @@
-var seriesFavoritasDeAna = ["Game of Thrones", "Breaking Bad", "House of Cards"];
-var seriesFavoritasDeHector = ["En Terapia", "Recordando el Show de Alejandro Molina"];
+var seriesFavoritasDeAna = [
+    'Game of Thrones',
+    'Breaking Bad',
+    'House of Cards'
+];
+var seriesFavoritasDeHector = [
+    'Los 80',
+    'Los archivos del cardenal'
+];

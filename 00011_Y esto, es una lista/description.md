@@ -2,9 +2,9 @@ Lo que acabamos de ver es cómo modelar fácilmente conjuntos de cosas. Mediante
 
 ¿Acaso hay una cantidad máxima de elementos? ¡No, no hay límite! Las listas pueden tener cualquier cantidad de elementos.
 
-Y no sólo eso, sino que además, el orden es importante. Por ejemplo, no es lo mismo `["hola", "mundo"]` que `["mundo", "hola"]`: ambos tienen los mismos elementos, pero en posiciones diferentes. 
+Y no sólo eso, sino que además, el orden es importante. Por ejemplo, no es lo mismo `["hola", "mundo"]` que `["mundo", "hola"]`: ambos tienen los mismos elementos, pero en posiciones diferentes.
 
-> Probá en la consola las siguientes consultas: 
+> Prueba en la consola las siguientes consultas: 
 > 
 > * `listasIguales(["hola", "mundo"], ["mundo", "hola"])`
 > * `listasIguales(["hola", "mundo"], ["hola", "mundo"])`
@@ -15,4 +15,4 @@ Y no sólo eso, sino que además, el orden es importante. Por ejemplo, no es lo 
 > * `["mara", "julian"] === personas`
 > * `personas === personas`
 
-> ¿Qué conclusiones podés sacar? :thought_balloon:
+> ¿Qué conclusiones puedes sacar? :thought_balloon:

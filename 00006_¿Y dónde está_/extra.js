@@ -1,1 +1,7 @@
-var diasLaborales = ["lunes", "martes", "miercoles", "jueves", "viernes"]
+var diasLaborales = [
+    'lunes',
+    'martes',
+    'miercoles',
+    'jueves',
+    'viernes'
+];
