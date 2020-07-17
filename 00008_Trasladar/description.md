@@ -7,9 +7,9 @@ Bueno, ya hablamos bastante; ¡es hora de actuar :movie_camera:!
 > ```javascript
 let unaLista = [1, 2, 3];
 let otraLista = [4, 5];
-
+>
 trasladar(unaLista, otraLista);
-
-unaLista //debería ser [1, 2]
-otraLista //debería ser [4, 5, 3]
-```
+>
+>unaLista //debería ser [1, 2]
+>otraLista //debería ser [4, 5, 3]
+>```
