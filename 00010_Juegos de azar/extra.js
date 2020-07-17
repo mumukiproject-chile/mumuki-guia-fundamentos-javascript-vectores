@@ -1,4 +1,4 @@
-let numerosDeLoteria = [
+let numerosDeLoto = [
     '2',
     '11',
     '17',

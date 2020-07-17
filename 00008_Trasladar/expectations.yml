@@ -1,14 +1,14 @@
 ---
 expectations:
-  - !ruby 
-    binding: "*"
-    inspection: Declares:trasladar
-  - !ruby 
-    binding: trasladar
-    inspection: Uses:remover
-  - !ruby 
-    binding: trasladar
-    inspection: Uses:agregar
-  - !ruby 
-    binding: "*"
-    inspection: Not:DeclaresVariable
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: "*"
+  inspection: Declares:trasladar
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: trasladar
+  inspection: Uses:remover
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: trasladar
+  inspection: Uses:agregar
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: "*"
+  inspection: Not:DeclaresVariable
